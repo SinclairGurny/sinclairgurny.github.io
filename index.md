@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Sinclair Gurny
 
-You can use the [editor on GitHub](https://github.com/SinclairGurny/sinclairgurny.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bachelor's of Science - Computer Science and Cognitive Science 
+**Rensselaer Polytechnic Institute**
+- GPA: 3.68
+- August 2015 - May 2019
 
-### Markdown
+Master's of Science - Computer Science
+**Rensslaer Polytechnic Institute**
+- August 2019 - May 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Awards
 
-```markdown
-Syntax highlighted code block
+Jack Hollingsworth Prize _(May 2019)_
+The prize is awarded to a computer science student who made a contribution to the education program at Rensselaer.
 
-# Header 1
-## Header 2
-### Header 3
+Founder's Award of Execellence _(October 2019)_
 
-- Bulleted
-- List
+# Certifications
 
-1. Numbered
-2. List
+Wilderness First Aid
+Stonehearth Open Learnining Opportunities (SOLO) Wilderness Medicine
+- October 2019 - October 2021
 
-**Bold** and _Italic_ and `Code` text
+CPR
+Stonehearth Open Learnining Opportunities (SOLO)
+- October 2019 - October 2021
 
-[Link](url) and ![Image](src)
-```
+# Skills
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Programming Languages:
+- C and C++
+- Java
+- Python
+- Scala
+- Scheme and Racket
+- Lua
+- have used various others including:
+- Haskell, Ada, Prolog, Assembly
 
-### Jekyll Themes
+## Software:
+- Git
+- Video Editing
+- Computer Aided Design
+- Microsoft Office
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SinclairGurny/sinclairgurny.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Other skills:
+- Electronics and basic circuit design
+- Computer hardware and repair
+- Arduino and Raspberry Pi programming
+-
 
-### Support or Contact
+# Projects
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+...
+
+# Experience
+
+...
+
+# Activities
+
+...
