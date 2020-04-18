@@ -16,7 +16,7 @@ linkedin_username: sinclair-gurny
 # About Section
 about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |+ # this will include new lines to allow paragraphs
   I'm Sinclair and I like making things. Currently a 5th year coterminal student at Rensselaer Polytechnic Institute finishing my M.S in Computer Science. I finished my B.S. in Computer Science and Cognitive Science in May 2020.
 
 Certifications
