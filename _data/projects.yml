@@ -1,0 +1,8 @@
+- layout: top-middle
+  name: Compiler for PSIL: a Homemade Scheme Variant
+  link: github.com/SinclairGurny
+  github: https://github.com/SinclairGurny/PSIL
+  quote: >
+    Interpretter for a simple LISP language written in C++ built from the ground up. The language is based on lambda calculus.
+  description: | # this will include new lines to allow paragraphs
+    I started this project as a way of refreshing my knowledge of modern <mark>C++</mark> and learning more about compilers. As a fairly simple programming language PSIL is not the most useful or unique of languages but it was a fun project and I learned a lot.

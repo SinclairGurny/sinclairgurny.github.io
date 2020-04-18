@@ -1,0 +1,52 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Sinclair Gurny
+title: Software Engineer
+email: sinclairg@hotmail.com
+
+# Social links
+github_username:  SinclairGurny
+linkedin_username: sinclair-gurny
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I'm Sinclair and I like making things. 
+
+  
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: Some More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Some of my other hobbies are:
+    - Fixed-gear Cycling
+    - Roller-blading
+    - Robotics
+    - Electronics
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
