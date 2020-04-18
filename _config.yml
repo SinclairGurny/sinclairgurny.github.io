@@ -4,8 +4,10 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Sinclair Gurny
-title: Software Engineer
+title: Looking for a Software Engineering Position
 email: sinclairg@hotmail.com
+
+darkmode: false
 
 # Social links
 github_username:  SinclairGurny
@@ -17,8 +19,15 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm Sinclair and I like making things. 
 
-  
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  *Certifications:*
+  - Wilderness First Aid (Stonehearth Open Learning Opportunities (SOLO) Wilderness Medicine) [Oct 2019-Oct 2021]
+  - CPR (Stonehearth Open Learning Opportunities (SOLO))
+  *Awards:*
+  - Jack Hollingsworth Prize (May 2019) The prize is awarded to a one computer science student a year who made a contribution to the education program at Rensselaer.
+  - Founder's Award of Excellence (Oct 2019) The prize is given to students who emody qualities of creativity, discovery, leadership, and the value of pride and responsibility.
+
+# Education Section
+# educaton_title: Education
 
 # Projects Section
 # projects_title: Projects
@@ -26,17 +35,15 @@ about_content: | # this will include new lines to allow paragraphs
 # Experience Section
 # experience_title: Experience
 
-# Education Section
-# educaton_title: Education
-
 # More Section
 # more_title: Some More About Me
 more_content: | # this will include new lines to allow paragraphs
+
   Some of my other hobbies are:
     - Fixed-gear Cycling
     - Roller-blading
     - Robotics
-    - Electronics
+    - Electronics (Building computers from parts I find)
 
 # Footer
 footer_show_references: true
