@@ -14,29 +14,30 @@ github_username:  SinclairGurny
 linkedin_username: sinclair-gurny
 
 # About Section
-# about_title: About Me
+about_title: **About Me**
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm Sinclair and I like making things. 
+  I'm Sinclair and I like making things. Currently a 5th year coterminal student at Rensselaer Polytechnic Institute finishing my M.S in Computer Science. I finished my B.S. in Computer Science and Cognitive Science in May 2020.
 
-  *Certifications:*
+**Certifications:**
   - Wilderness First Aid (Stonehearth Open Learning Opportunities (SOLO) Wilderness Medicine) [Oct 2019-Oct 2021]
   - CPR (Stonehearth Open Learning Opportunities (SOLO))
-  *Awards:*
-  - Jack Hollingsworth Prize (May 2019) The prize is awarded to a one computer science student a year who made a contribution to the education program at Rensselaer.
-  - Founder's Award of Excellence (Oct 2019) The prize is given to students who emody qualities of creativity, discovery, leadership, and the value of pride and responsibility.
+
+**Awards:**
+  - Jack Hollingsworth Prize (May 2019) This prize is awarded to one computer science student a year who made a contribution to the education program at Rensselaer.
+  - Founder's Award of Excellence (Oct 2019) This prize is given to students who emody qualities of creativity, discovery, leadership, and the value of pride and responsibility.
 
 # Education Section
-# educaton_title: Education
+educaton_title: **Education**
 
 # Projects Section
-# projects_title: Projects
+projects_title: **Projects**
 
 # Experience Section
-# experience_title: Experience
+experience_title: **Experience**
 
 # More Section
-# more_title: Some More About Me
+more_title: **A Little More About Me**
 more_content: | # this will include new lines to allow paragraphs
 
   Some of my other hobbies are:

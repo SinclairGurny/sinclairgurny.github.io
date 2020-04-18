@@ -1,20 +1,21 @@
 - layout: left
-  company: IPPsec, Inc.
+  company: IPPSec, Inc.
   job_title: Artificial Intelligence Developer
   dates: 2018 - 2019
   quote: >
-    A new generation of security driven by you. A startup venture with focus on completely revolutionizing the way people approach information personnel, and physical security.
+    "A new generation of security driven by you." A startup venture with focus on completely revolutionizing the way people approach information personnel, and physical security.
   description: | # this will include new lines to allow paragraphs
-    I worked on developing artificial intelligence prediction software.
+    IPPSec, Inc. is a small startup focusing
+    I worked on developing artificial intelligence prediction software for use i.
 
 - layout: left
-  company: iD Tech
+  company: iD Tech Camps
   job_title: Instructor
   dates: June 2017 - August 2017
   quote: >
     iD Tech Camps is a summer computer camp for children ages 7 though 19. Camps are help in various U.S. college and university campuses.
   description: | # this will include new lines to allow paragraphs
-    I taught kids ages 10-17 about programming (in languages such as: Python, C++, C, and Java), computer hardware (Raspberry Pi), and robotics (Vex). I created lesson plans for each week long course.
+    I taught kids ages 10-17 about programming, computer hardware, and VEX robotics. The programming languages I taught my students included <mark>Python</mark>, <mark>C++</mark>, <mark>RobotC</mark>, <mark>C</mark>, and <mark>Java</mark>. The course on computer hardware included the use of *pi-tops* a Raspberry Pi based laptop and programming in Python. I created lesson plans for each of my week-long courses which consisted of several hours of education each day.
 
 
 - layout: left

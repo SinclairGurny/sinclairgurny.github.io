@@ -1,8 +1,23 @@
-- layout: top-middle
-  name: Compiler for PSIL (a Homemade Scheme Variant)
-  link: github.com/SinclairGurny
+- layout: left
+  name: Compiler for PSIL (a Homemade Scheme Variant) \[2019\]
   github: https://github.com/SinclairGurny/PSIL
-  quote: >
-    Interpretter for a simple LISP language written in C++ built from the ground up. The language is based on lambda calculus.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way of refreshing my knowledge of modern <mark>C++</mark> and learning more about compilers. As a fairly simple programming language PSIL is not the most useful or unique of languages but it was a fun project and I learned a lot.
+      Interpretter for a simple LISP language written in <mark>C++</mark> built from the ground up. The language is based on lambda calculus. I started this project as a way of refreshing my knowledge of modern <mark>C++</mark> and learning more about compilers. As a fairly simple programming language PSIL is not the most useful or unique of languages but it was a fun project and I learned a lot.
+
+- layout: left
+  name: Arduino Computer Mouse \[2017\]
+  link: https://hackaday.io/project/26914-arduino-joystick-mouse
+  decription: |
+    A computer mouse that I designed, built, and programmed using an Arduino and various sensors. The mouse has multiple programmed modes and includes gesture controls via an accelerometer and haptic feedback via a vibration motor. This is my most polished and usable electronics project.
+
+- layout: left
+  name: Wall Following and Obstacle Avoidance Robot \[2017\]
+  link: https://hackaday.io/project/28646-wall-following-and-obstacle-avoidance
+  description: |
+    A Raspberry Pi and Arduino based robot which uses sensors to detect obstacles and navigate around them. It uses ultrasonic and infrared distance sensors and uses Robot Operating System (ROS) to control the robot. This was my final project for Algorithmic Robotics.
+
+- layout: left
+  name: Checkers Game and AI \[2014\]
+  link: https://github.com/SinclairGurny/Random_Old_Programs
+  description: |
+    One of my first programming projects and one of my favorites. I created a Checkers game with a working graphical interface and AI opponent in Racket (a variant of Scheme). This project was my first dive into functional programming and artificial intelligence programming. What I learned in this project helped me greatly during my time at RPI.
