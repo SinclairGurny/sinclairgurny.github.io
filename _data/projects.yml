@@ -1,13 +1,13 @@
-- layout: top-left
+- layout: top-right
   name: Compiler for PSIL (a Homemade Scheme Variant) [2019]
-  github: https://github.com/SinclairGurny/PSIL
+  github: SinclairGurny/PSIL
   description: > # this will include new lines to allow paragraphs
       Interpretter for a simple LISP language written in <mark>C++</mark> built from the ground up. 
       The language is based on lambda calculus. 
       I started this project as a way of refreshing my knowledge of modern <mark>C++</mark> and learning more about compilers. 
       As a fairly simple programming language PSIL is not the most useful or unique of languages but it was a fun project and I learned a lot.
 
-- layout: top-left
+- layout: top-middle
   name: Arduino Computer Mouse [2017]
   link: hackaday.io/project/26914-arduino-joystick-mouse
   description: >
@@ -15,7 +15,7 @@
     The mouse has multiple programmed modes and includes gesture controls via an accelerometer and haptic feedback via a vibration motor. 
     This is my most polished and usable electronics project.
 
-- layout: top-left
+- layout: right
   name: Wall Following and Obstacle Avoidance Robot [2017]
   link: hackaday.io/project/28646-wall-following-and-obstacle-avoidance
   description: >
@@ -23,9 +23,9 @@
     It uses ultrasonic and infrared distance sensors and uses Robot Operating System (ROS) to control the robot. 
     This was my final project for Algorithmic Robotics.
 
-- layout: top-left
+- layout: top-middle
   name: Checkers Game and AI [2014]
-  github: https://github.com/SinclairGurny/Random_Old_Programs
+  github: SinclairGurny/Random_Old_Programs
   description: >
     One of my first programming projects and one of my favorites. 
     I created a Checkers game with a working graphical interface and AI opponent in Racket (a variant of Scheme). 
