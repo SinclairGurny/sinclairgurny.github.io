@@ -10,7 +10,7 @@
 - layout: top-middle
   name: WiFi Controlled Robot [2019]
   link: hackaday.io/project/166142-wifi-tank-robot
-  github: SinclairGurny/Robot_Controller
+  github: SinclairGurny/Robo_Controller
   description: >
     I got a kit for this WiFi controlled tank robot with a pan and tilt camera and it came with a nearly unusable controller program.
     So I wrote a graphical controller in <mark>Python</mark> <mark>PyQt5</mark> and <mark>OpenCV</mark> features for facial recognition and Aruco tag tracking.
@@ -20,7 +20,7 @@
   github: s-more/Smore
   description: >
     Open Source group project for Software Design & Documentation. Developed using <mark>Scrum</mark> framework using 1 week sprints.
-    Smore is an <mark>iOS</mark> application that is capable of playing music from Apple Music, Spotify, and YouTube.
+    Smore is an <mark>iOS</mark> application developed in <mark>Swift</mark> that is capable of playing music from Apple Music, Spotify, and YouTube.
     Smore can browse for music, search for specific songs, and create a library of music from different sources.
 
 - layout: top-middle
@@ -35,7 +35,7 @@
 - layout: top-middle
   name: Turn&#45;based Strategy Game [2018]
   github: Sinclair/X_Ronin
-  decription: >
+  description: >
     This project came about because I wanted to refresh my knowledge of <mark>Lua</mark>. 
     It is a simple rough but playable game made using <mark>Love2D</mark>. 
 
