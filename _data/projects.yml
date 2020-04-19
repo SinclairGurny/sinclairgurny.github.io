@@ -32,12 +32,12 @@
     We created our <mark>RESTful API</mark> for our web crawling server. 
     Written in <mark>Python</mark> using <mark>BeautifulSoup</mark> for web crawling and <mark>Flask</mark> for the HTTP server.
 
--layout: top-middle
- name: Turn&#45;based Strategy Game [2018]
- github: Sinclair/X_Ronin
- decription: >
-   This project came about because I wanted to refresh my knowledge of <mark>Lua</mark>. 
-   It is a simple rough but playable game made using <mark>Love2D</mark>. 
+- layout: top-middle
+  name: Turn&#45;based Strategy Game [2018]
+  github: Sinclair/X_Ronin
+  decription: >
+    This project came about because I wanted to refresh my knowledge of <mark>Lua</mark>. 
+    It is a simple rough but playable game made using <mark>Love2D</mark>. 
 
 - layout: top-middle
   name: Arduino Computer Mouse [2017]
