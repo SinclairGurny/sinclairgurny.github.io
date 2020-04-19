@@ -2,7 +2,8 @@
 - layout: left
   name: Rensselaer Polytechnic Institute
   dates: 2015-2019
-  qualification: B.S. Computer Science and Cognitive Science (GPA: 3.68)
+  qualification: >
+    B.S. Computer Science and Cognitive Science (GPA: 3.68)
   quote: >
     Established in 1824 for the "application of science to the common purposes of life". Rensselaer Polytechnic Institute is the oldest technological university in the English-speaking world.
   description: | # this will include new lines to allow paragraphs
