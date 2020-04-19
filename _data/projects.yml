@@ -12,7 +12,7 @@
   link: hackaday.io/project/166142-wifi-tank-robot
   github: SinclairGurny/Robot_Controller
   description: >
-    I got a kit for this Wi-Fi controlled tank robot with a pan-tilt camera and it came with a nearly unusable controller program.
+    I got a kit for this WiFi controlled tank robot with a pan and tilt camera and it came with a nearly unusable controller program.
     So I wrote a graphical controller in <mark>Python</mark> <mark>PyQt5</mark> and <mark>OpenCV</mark> features for facial recognition and Aruco tag tracking.
 
 - layout: top-middle
