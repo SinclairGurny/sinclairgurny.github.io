@@ -17,15 +17,16 @@ about_profile_image: images/profile.jpg
 about_content: |
   I'm Sinclair and I like making things. 
   Currently a 5th year coterminal student at Rensselaer Polytechnic Institute finishing my M.S in Computer Science. 
-  I finished my B.S. in Computer Science and Cognitive Science in May 2020.
+  I finished my B.S. in Computer Science and Cognitive Science in May 2019. 
+  I am currently looking for a full-time software engineering position starting Summer 2020.
   
   Certifications
-  Wilderness First Aid (Stonehearth Open Learning Opportunities (SOLO) Wilderness Medicine) \[Oct 2019-Oct 2021\]
-  CPR (Stonehearth Open Learning Opportunities (SOLO))
+  - Wilderness First Aid (Stonehearth Open Learning Opportunities) \[Oct 2019-Oct 2021\]
+  - CPR (Stonehearth Open Learning Opportunities) \[Oct 2019-Oct 2021\]
   
   Awards
-  - Jack Hollingsworth Prize (May 2019) This prize is awarded to one computer science student a year who made a contribution to the education program at Rensselaer.
-  - Founder's Award of Excellence (Oct 2019) This prize is given to students who emody qualities of creativity, discovery, leadership, and the value of pride and responsibility.
+  - Jack Hollingsworth Prize (May 2019)"&#58;" This prize is awarded to one computer science student a year who made a contribution to the education program at Rensselaer.
+  - Founder's Award of Excellence (Oct 2019)"&#58;" This prize is given to students who emody qualities of creativity, discovery, leadership, and the value of pride and responsibility.
 
 # Projects Section
 #projects_title: Projects
@@ -49,7 +50,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-darkmode: true
+dark_mode: false
 remote_theme: sproogen/resume-theme
 
 sass:
