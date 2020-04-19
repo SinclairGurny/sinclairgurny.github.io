@@ -17,6 +17,11 @@ about_profile_image: images/profile.jpg
 about_content: |
   I'm Sinclair and I like making things. 
   Currently a 5th year coterminal student at Rensselaer Polytechnic Institute finishing my M.S in Computer Science. 
+  My interests are artificial intelligence, robotics, aerospace, and electronics. 
+  I was fortunate to be able to combine many of my interests in my thesis&#58; "Learning Models from Avionics Data Streams". 
+  It focuses on using declarative machine learning to create a data-driven system which can estimate aircraft weight in real-time during take-off.
+  The goal was to be able to prevent aircraft accidents caused by overweight conditions.
+
   I finished my B.S. in Computer Science and Cognitive Science in May 2019. 
   I am currently looking for a full-time software engineering position starting Summer 2020.
   
@@ -27,30 +32,45 @@ about_content: |
   Awards
   - Jack Hollingsworth Prize (May 2019)&#58; This prize is awarded to one computer science student a year who made a contribution to the education program at Rensselaer.
   - Founder's Award of Excellence (Oct 2019)&#58; This prize is given to students who emody qualities of creativity, discovery, leadership, and the value of pride and responsibility.
+  
+  Programming Languages
+  - C/C++
+  - Java
+  - Python
+  - Scala
+  - Scheme/Racket
+  - Lua
+  
+  Skills
+  - Microsoft Office
+  - CAD
+  - Git
+  - Video Editing
+  - Windows and UNIX OSes
+  - Virtual Machines
+  - Distributed and Concurrent Programming
 
 # Projects Section
-projects_title: **Projects**
+projects_title: Projects
 
 # Experience Section
-#experience_title: Experience
+experience_title: Experience
 
 # Education Section
-#educaton_title: Education
+educaton_title: Education
 
 # More Section
 more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Some of my other hobbies are:
-    - Fixed-gear Cycling
-    - Roller-blading
-    - Robotics
-    - Electronics (Building computers from parts I find)
+more_content: |
+  Learning is my true passion. I aim to learn as many new skills as possible.
+  I love computers and I repair old computer I find. I also love to be outside and go cycling or hiking.
+  
 
 # Footer
 footer_show_references: true
 
 # Build settings
-dark_mode: false
+darkmode: false
 remote_theme: sproogen/resume-theme
 
 sass:
