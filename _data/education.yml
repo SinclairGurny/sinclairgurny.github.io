@@ -2,11 +2,11 @@
 - layout: left
   name: Rensselaer Polytechnic Institute
   dates: 2015-2019
-  qualification: B.S. Computer Science and Cognitive Science
+  qualification: B.S. Computer Science and Cognitive Science (GPA: 3.68)
   quote: >
     Established in 1824 for the "application of science to the common purposes of life". Rensselaer Polytechnic Institute is the oldest technological university in the English-speaking world.
   description: | # this will include new lines to allow paragraphs
-    (GPA: 3.68) I learned a lot from my time at RPI. I have taken courses in everything from Circuits to Neuroscience. My focus was distributed systems, distributed programming languages, and high-performance computing within my computer science courses. Within cognitive science my focus was artificial intelligence, with my biggest interest being cognitive architectures. 
+    I learned a lot from my time at RPI. I have taken courses in everything from Circuits to Neuroscience. My focus was distributed systems, distributed programming languages, and high-performance computing within my computer science courses. Within cognitive science my focus was artificial intelligence, with my biggest interest being cognitive architectures. 
 
 - layout: left
   name: Rensselaer Polytechnic Institute
