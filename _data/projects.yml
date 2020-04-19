@@ -1,4 +1,4 @@
-- layout: top-right
+- layout: top-middle
   name: Compiler for PSIL (a Homemade Scheme Variant) [2019]
   github: SinclairGurny/PSIL
   description: > # this will include new lines to allow paragraphs
@@ -15,7 +15,7 @@
     The mouse has multiple programmed modes and includes gesture controls via an accelerometer and haptic feedback via a vibration motor. 
     This is my most polished and usable electronics project.
 
-- layout: right
+- layout: top-middle
   name: Wall Following and Obstacle Avoidance Robot [2017]
   link: hackaday.io/project/28646-wall-following-and-obstacle-avoidance
   description: >
