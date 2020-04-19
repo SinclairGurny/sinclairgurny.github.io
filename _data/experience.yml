@@ -1,12 +1,24 @@
 - layout: left
+  company: Rensselaer Polytechnic Institute (Computer Science Department)
+  job_title: Undergraduate Teaching Assistant (Data Structures)
+  dates: January 2016 - May 2019
+  quote: >
+    CSCI 1200 (Data Structures) covers fundamental data structures and their use in programming. This includes both class design and features of the C++ programming language. Much of our discussion will be built around the design and use of the C++ standard library (STL).
+  description: >
+    I helped students in learning the material, debugging code, and answering conceptual and syntax related questions.
+    I developed my ability to communicate technical information to people with varying programming knowledge.
+    I also improved my debugging ability and ability to read code quickly.
+    
+- layout: left
   company: IPPSec, Inc.
   job_title: Artificial Intelligence Developer
   dates: 2018 - 2019
   quote: >
     "A new generation of security driven by you." A startup venture with focus on completely revolutionizing the way people approach information personnel, and physical security.
-  description: | # this will include new lines to allow paragraphs
-    IPPSec, Inc. is a small startup focusing
-    I worked on developing artificial intelligence prediction software for use i.
+  description: >
+    The entire team was small, with each member being very specialized.
+    I worked on research and development of an artificial intelligence prediction software.
+    This software was meant to create heatmaps from spatio-temporal data and predict their change over time.
 
 - layout: left
   company: iD Tech Camps
@@ -14,16 +26,11 @@
   dates: June 2017 - August 2017
   quote: >
     iD Tech Camps is a summer computer camp for children ages 7 though 19. Camps are help in various U.S. college and university campuses.
-  description: | # this will include new lines to allow paragraphs
-    I taught kids ages 10-17 about programming, computer hardware, and VEX robotics. The programming languages I taught my students included <mark>Python</mark>, <mark>C++</mark>, <mark>RobotC</mark>, <mark>C</mark>, and <mark>Java</mark>. The course on computer hardware included the use of *pi-tops* a Raspberry Pi based laptop and programming in Python. I created lesson plans for each of my week-long courses which consisted of several hours of education each day.
+  description: >
+    I taught kids ages 10-17 about programming, computer hardware, and VEX robotics. 
+    The programming languages I taught my students included <mark>Python</mark>, <mark>C++</mark>, <mark>RobotC</mark>, <mark>C</mark>, and <mark>Java</mark>. 
+    The course on computer hardware included the use of *pi-tops* a Raspberry Pi based laptop and programming in Python. 
+    I created lesson plans for each of my week-long courses which consisted of several hours of education each day.
 
 
-- layout: left
-  company: Rensselaer Polytechnic Institute (Computer Science Department)
-  job_title: Undergraduate Teaching Assistant (Data Structures)
-  dates: January 2016 - May 2019
-  quote: >
-    CSCI 1200 (Data Structures) covers fundamental data structures and their use in programming. This includes both class design and features of the C++ programming language. Much of our discussion will be built around the design and use of the C++ standard library (STL).
-  description: | # this will include new lines to allow paragraphs
-    I worked with students during lab times and during office hours. During labs students are tasked with completing an assignment split into several checkpoints. During office hours students come to TAs for help with homework, labs, or other class related questions. Overall, I helped students in learning the material, debugging code, and answering conceptual and syntax related questions.
 
