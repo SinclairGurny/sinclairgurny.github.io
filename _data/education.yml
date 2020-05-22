@@ -7,11 +7,11 @@
   quote: >
     Established in 1824 for the "application of science to the common purposes of life". Rensselaer Polytechnic Institute is the oldest technological university in the English-speaking world.
   description: | # this will include new lines to allow paragraphs
-    I learned a lot from my time at RPI. I have taken courses in everything from Circuits to Neuroscience. My focus was distributed systems, distributed programming languages, and high-performance computing within my computer science courses. Within cognitive science my focus was artificial intelligence, with my biggest interest being cognitive architectures. 
+    I learned a lot from my time at RPI. I have taken courses in everything from Circuits to Neuroscience. My focus was distributed systems, distributed programming languages, and high-performance computing within my computer science courses. Within cognitive science my focus was artificial intelligence and robotics, with my biggest interest being cognitive architectures. 
 
 - layout: left
   name: Rensselaer Polytechnic Institute
   dates: 2019-2020
   qualification: M.S. Computer Science
   description: | # this will include new lines to allow paragraphs
-    My graduate research in the Worldwide Computing Lab was focused on distributed. My thesis "Learning Models from Avionics Data Streams" focused on the applications of declarative machine-learning to estimate fixed-wing aircraft weight during take-off.
+    My graduate research in the Worldwide Computing Lab was focused on distributed data-driven systems. My thesis "Learning Models from Avionics Data Streams" focused on the applications of declarative machine-learning to estimate fixed-wing aircraft weight during take-off.
