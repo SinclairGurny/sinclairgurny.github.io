@@ -14,4 +14,4 @@
   dates: 2019-2020
   qualification: M.S. Computer Science
   description: | # this will include new lines to allow paragraphs
-    My graduate research in the Worldwide Computing Lab was focused on distributed data-driven systems. My thesis "Learning Models from Avionics Data Streams" focused on the applications of declarative machine-learning to estimate fixed-wing aircraft weight during take-off.
+    My graduate research in the Worldwide Computing Lab was focused on distributed data-driven systems. My thesis "Learning Models from Avionics Data Streams" is the only data-driven program which is designed to prevent aviation accidents due to overweight or underweight take-offs. For example Tuninter 1153 (12.5% under weight, lack of fuel), Cessna 172R N420P (6% over max weight), and Aerosucre Flight 157 (1.3% over max weight, overran runway). In more technical detail, it is focused on the applications of declarative machine-learning to estimate fixed-wing aircraft weight during take-off.
