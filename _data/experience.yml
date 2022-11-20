@@ -1,4 +1,14 @@
 - layout: left
+  company: Stonewall Defense
+  job_title: Machine Learning Engineer & Infrastructure Engineer
+  dates: June 2020 - Present
+  quote: >
+    Developed a data lake, batch processing and event based analytics systems, visualizations and machine learning predictions for several different projects. Managed kubernetes infrastructure on Amazon Web Services.
+  description: >
+    Initial project including developing a batch processing analytics system which loaded data into a data lake and produced visualizations retrievable via API. This includes AWS services S3, EC2, Athena, Glue and Lambda. Later projects includes event driven prediction models which are triggered via Kafka messages.
+    In 2021 I gained Infrastructure Engineer responsibilities. This included managing the existing AWS Kubernetes system as well as setting up new infrastructure for the new projects. I managed kubernetes updates, database backups, database recovery, DNS, ingress, and built deployment scripts.
+
+- layout: left
   company: Rensselaer Polytechnic Institute (Computer Science Department)
   job_title: Undergraduate Teaching Assistant (Data Structures)
   dates: January 2016 - May 2019
