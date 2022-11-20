@@ -15,15 +15,9 @@ linkedin_username: sinclair-gurny
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  I'm Sinclair and I like making things. 
-  Currently a 5th year coterminal student at Rensselaer Polytechnic Institute finishing my M.S in Computer Science. 
-  My interests are artificial intelligence, robotics, aerospace, and electronics. 
-  I was fortunate to be able to combine many of my interests in my thesis&#58; "Learning Models from Avionics Data Streams". 
-  It focuses on using declarative machine learning to create a data-driven system which can estimate aircraft weight in real-time during take-off.
-  The goal was to be able to prevent aircraft accidents caused by overweight conditions.
-
-  I finished my B.S. in Computer Science and Cognitive Science in May 2019. 
-  I am currently looking for a full-time software engineering position starting Summer 2020.
+  I'm Sinclair, I am currently working as a Machine Learning Engineer and Infrastructure Engineer at Stonewall Defense.
+  I finished a 5 year coterminal program at Rensselaer Polytechnic Institute in May 2020. Which consisted of a B.S. in Computer Science and Cognitive Science in May 2019 which focused on artificial intelligence, programming languages, and distributed systems. I completed my M.S. in Computer Science in May 2020.
+  My thesis "Learning Models from Avionics Data Streams" focuses on using declarative machine learning to create a data-driven system which can estimate aircraft weight in real-time during take-off. By being the only system which uses no external sensors and does real time estimation before leaving the runway it would be capable of preventing such accidents. I also got a paper accepted to into the Digital Avionics Systems Conference (DASC) 2020, titled "Aircraft Weight Estimation During Take-off Using Declarative Machine Learning". My publications can be found [here](https://wcl.cs.rpi.edu/bib/Author/GURNY-S.html)
   
   Certifications
   - Wilderness First Aid&#58; (Stonehearth Open Learning Opportunities) \[Oct 2019-Oct 2021\]
@@ -31,24 +25,24 @@ about_content: |
   
   Awards
   - Jack Hollingsworth Prize (May 2019)&#58; This prize is awarded to one computer science student a year who made a contribution to the education program at Rensselaer.
-  - Founder's Award of Excellence (Oct 2019)&#58; This prize is given to students who emody qualities of creativity, discovery, leadership, and the value of pride and responsibility.
+  - Founder's Award of Excellence (Oct 2019)&#58; This prize is given to less than 1% of students who emody qualities of creativity, discovery, leadership, and the value of pride and responsibility.
   
   Programming Languages
-  - C/C++
-  - Java
   - Python
-  - Scala
-  - Scheme/Racket
-  - Lua
+  - C/C++
+  - Java/Scala
+  - Julia
+  - Lisp (Emacs Lisp/Scheme/Racket)
   
   Skills
+  - Windows and UNIX OSes
+  - Virtual Machines
+  - Distributed and Concurrent Programming
   - Microsoft Office
   - CAD
   - Git
   - Video Editing
-  - Windows and UNIX OSes
-  - Virtual Machines
-  - Distributed and Concurrent Programming
+
 
 # Projects Section
 projects_title: Projects
@@ -57,14 +51,15 @@ projects_title: Projects
 experience_title: Experience
 
 # Education Section
-educaton_title: Education
+education_title: Education
 
 # More Section
 more_title: A Little More About Me
 more_content: |
-  Learning is my true passion. I aim to learn as many new skills as possible.
-  I love computers and I repair old computer I find. I also love to be outside and go cycling or hiking.
-  
+  Learning and improving is my true passion.
+  I use GNU Emacs because I love the customizability and keyboard interface of emacs.
+  I currently use the Soul keyboard layout (very similar to Colemak) because it was a fun challenge to fight with my typing muscle memory and also improve the ergonomics of typing.
+  I am also an avid Shogi player (Japanese chess) and captain a shogi team which won our division in 2021.
 
 # Footer
 footer_show_references: true
