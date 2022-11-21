@@ -15,11 +15,11 @@ linkedin_username: sinclair-gurny
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  I'm Sinclair, I am currently working as a Machine Learning Engineer and Infrastructure Engineer at Stonewall Defense.
+  I'm Sinclair. I am currently working as a Machine Learning Engineer and Infrastructure Engineer at Stonewall Defense.
   
-  I finished a 5 year coterminal program at Rensselaer Polytechnic Institute in May 2020. Which consisted of a B.S. in Computer Science and Cognitive Science in May 2019 which focused on artificial intelligence, programming languages, and distributed systems. I completed my M.S. in Computer Science in May 2020.
+  During my 5 year coterminal program at Rensselaer Polytechnic Institute I completed my M.S. in Computer Science in May 2020 and my B.S. in Computer Science and Cognitive Science in May 2019.
   
-  My thesis "Learning Models from Avionics Data Streams" focuses on using declarative machine learning to create a data-driven system which can estimate aircraft weight in real-time during take-off. By being the only system which uses no external sensors and does real time estimation before leaving the runway it would be capable of preventing such accidents. I also got a paper accepted to into the Digital Avionics Systems Conference (DASC) 2020, titled "Aircraft Weight Estimation During Take-off Using Declarative Machine Learning". My publications can be found [here](https://wcl.cs.rpi.edu/bib/Author/GURNY-S.html)
+  My thesis "Learning Models from Avionics Data Streams" focuses on using declarative machine learning to create a data-driven system which can estimate aircraft weight in real-time during take-off. It is the only system which uses no external sensors and does real time estimation before leaving the runway making it capable of preventing accidents such as overrunning the runway. My paper based on my thesis work was accepted into the Digital Avionics Systems Conference (DASC) 2020, titled "Aircraft Weight Estimation During Take-off Using Declarative Machine Learning". My publications can be found [here](https://wcl.cs.rpi.edu/bib/Author/GURNY-S.html).
   
   Certifications
   - Wilderness First Aid&#58; (Stonehearth Open Learning Opportunities) \[Oct 2019-Oct 2021\]
@@ -60,9 +60,14 @@ education_title: Education
 more_title: A Little More About Me
 more_content: |
   Learning and improving is my true passion.
-  I use GNU Emacs because I love the customizability and keyboard interface of emacs.
-  I currently use the Soul keyboard layout (very similar to Colemak) because it was a fun challenge to fight with my typing muscle memory and also improve the ergonomics of typing.
-  I am also an avid Shogi player (Japanese chess) and captain a shogi team which won our division in 2021.
+  
+  I use GNU Emacs because I love the customizability, and how it does everything all in one place. My favorite emacs packages are magit, frog-jump-buffer, org and org-roam. And no I do not use evil mode.
+  
+  I currently use the [Soul](https://kennetchaz.github.io/symmetric-typing/soul.html) keyboard layout (very similar to Colemak) because it was a fun challenge to fight with my typing muscle memory and also improve the ergonomics of typing. A bunch of small improvements to your daily workflow add up in the long run.
+  
+  I am also an avid [Shogi](https://www.shogi.or.jp/event/english-pamphlet.pdf) player (Japanese chess) and captain a shogi team which won our division in 2021. Shogi is unique when compared to chess in that captured pieces can be placed back on the board.
+  
+  Besides that I enjoy biking and I am learning to play classical guitar.
 
 # Footer
 footer_show_references: true
