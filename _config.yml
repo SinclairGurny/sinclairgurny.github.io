@@ -16,7 +16,9 @@ about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
   I'm Sinclair, I am currently working as a Machine Learning Engineer and Infrastructure Engineer at Stonewall Defense.
+  
   I finished a 5 year coterminal program at Rensselaer Polytechnic Institute in May 2020. Which consisted of a B.S. in Computer Science and Cognitive Science in May 2019 which focused on artificial intelligence, programming languages, and distributed systems. I completed my M.S. in Computer Science in May 2020.
+  
   My thesis "Learning Models from Avionics Data Streams" focuses on using declarative machine learning to create a data-driven system which can estimate aircraft weight in real-time during take-off. By being the only system which uses no external sensors and does real time estimation before leaving the runway it would be capable of preventing such accidents. I also got a paper accepted to into the Digital Avionics Systems Conference (DASC) 2020, titled "Aircraft Weight Estimation During Take-off Using Declarative Machine Learning". My publications can be found [here](https://wcl.cs.rpi.edu/bib/Author/GURNY-S.html)
   
   Certifications
@@ -29,19 +31,20 @@ about_content: |
   
   Programming Languages
   - Python
+  - Bash
   - C/C++
   - Java/Scala
   - Julia
   - Lisp (Emacs Lisp/Scheme/Racket)
   
   Skills
-  - Windows and UNIX OSes
-  - Virtual Machines
-  - Distributed and Concurrent Programming
-  - Microsoft Office
-  - CAD
-  - Git
-  - Video Editing
+  - Deep Learning (PyTorch)
+  - Visualization (plotly, matplotlib, seaborn), Dashboard (streamlit)
+  - Machine Learning and Data Science (numpy, scipy, pandas, xgboost, lightgbm) [Kaggle profile](https://www.kaggle.com/sinclairg)
+  - API development (FastAPI, flask)
+  - AWS (EC2, Lambda, S3, EKS, Athena, Glue)
+  - Kubernetes
+  - Docker, Docker Compose
 
 
 # Projects Section
