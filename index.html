@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>XCOM Template</title>
+  <title>Sinclair Gurny</title>
   <style>
     body {
-        height: calc(100vh - 20px);
+        height: 120vh;
         background: linear-gradient(to bottom, #244644, #000);
         display: flex;
         flex-direction: row;
@@ -22,7 +22,7 @@
     .panel {
         flex: 1;
         box-sizing: border-box;
-        height: 90%;
+        height: 100%;
         padding: 10px;
         margin: 10px;
         background-color: #000;
@@ -61,7 +61,6 @@
             #293838 16px);
     }
 
-
     h1 {
         display: inline-block;
         font-size: 2em;
@@ -79,7 +78,7 @@
         margin-bottom: 12px;
         margin-top: 0;
         padding-bottom: 8px;
-        border-bottom: 1px solid #a29e84
+        border-bottom: 1px solid #a29e84;
     }
 
     h3 {
@@ -100,7 +99,7 @@
         margin: 0 5px 10px;
         padding-left: 10px;
         padding-bottom: 5px;
-        border-bottom: 1px solid #a29e84
+        border-bottom: 1px solid #a29e84;
     }
 
     p {
@@ -145,21 +144,19 @@
     <div id="s1b1" class="button">Education</div>
     <div id="s1b2" class="button">Experience</div>
     <div id="s1b3" class="button">Certifications / Awards</div>
-    <div id="s1b3" class="button">Skills</div>
+    <div id="s1b4" class="button">Skills</div>
     <h3>Projects<div class="stripe2"></div></h3>
     <div id="s2b1" class="button">Projects</div>
   </div>
 
   <div class="panel" id="textPanel">
     <div class="double-line"></div>
-    <h4 id="text_title">XCOM Project Historical Record</h4>
-    <p id="text_content">
-      This is my text section
-    </p>
+    <h4 id="text_title">...</h4>
+    <p id="text_content"></p>
   </div>
   <!-- Hidden Sections which contain the text -->
   <p id="about_me" hidden>
-    I'm Sinclair. I am currently working as a Machine Learning Engineer and Infrastructure Engineer at Stonewall Defense.
+    I am currently working as a Machine Learning Engineer and Infrastructure Engineer at Stonewall Defense.
     During my 5 year coterminal program at Rensselaer Polytechnic Institute I completed my M.S. in Computer Science in May 2020 and my B.S. in Computer Science and Cognitive Science in May 2019.
     My thesis Learning Models from Avionics Data Streams focuses on using declarative machine learning to create a data-driven system which can estimate aircraft weight in real-time during take-off. It is the only system which uses no external sensors and does real time estimation before leaving the runway making it capable of preventing accidents such as overrunning the runway. My paper based on my thesis work was accepted into the Digital Avionics Systems Conference (DASC) 2020, titled Aircraft Weight Estimation During Take-off Using Declarative Machine Learning. My publications can be found
   </p>
@@ -289,7 +286,7 @@
     const text = document.getElementById('text_content');
 
     let buttons = ["s0b1", "s0b2",
-                   "s1b1", "s1b2", "s1b3",
+                   "s1b1", "s1b2", "s1b3", "s1b4",
                    "s2b1"];
     let content = ["about_me", "more",
                    "education", "experience", "certs_awards", "skills",
