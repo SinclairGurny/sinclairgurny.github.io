@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XCOM Template</title>
+  <style>
+    body {
+        height: calc(100vh - 20px);
+        background: linear-gradient(to bottom, #244644, #000);
+        display: flex;
+        flex-direction: row;
+    }
+
+    .double-line {
+        height: 2px;
+        background-color: #98c8c8;
+        margin-top: 0;
+        margin-bottom: 6px;
+    }
+
+    .panel {
+        flex: 1;
+        box-sizing: border-box;
+        height: 90%;
+        padding: 10px;
+        margin: 10px;
+        background-color: #000;
+        border-radius: 0 8px 0 8px;
+    }
+
+    .title-container {
+        display: flex;
+    }
+
+    .stripe1 {
+        box-sizing: border-box;
+        height: 20px;
+        margin: 5px;
+        padding: 5px;
+        width: 100%;
+        background: repeating-linear-gradient(
+            -45deg,
+            transparent,
+            transparent 8px,
+            #1f2a2b 8px,
+            #1f2a2b 16px);
+    }
+
+    .stripe2 {
+        box-sizing: border-box;
+        height: 20px;
+        margin: 5px;
+        padding: 5px;
+        width: 90%;
+        background: repeating-linear-gradient(
+            -45deg,
+            transparent,
+            transparent 8px,
+            #293838 8px,
+            #293838 16px);
+    }
+
+
+    h1 {
+        display: inline-block;
+        font-size: 2em;
+        text-transform: uppercase;
+        color: #98c8c8;
+        margin-bottom: 0;
+        margin-top: 0;
+        white-space: nowrap;
+    }
+
+    h2 {
+        font-size: 1em;
+        text-transform: uppercase;
+        color: #a29e84;
+        margin-bottom: 12px;
+        margin-top: 0;
+        padding-bottom: 8px;
+        border-bottom: 1px solid #a29e84
+    }
+
+    h3 {
+        display: block;
+        font-size: 1.5em;
+        text-transform: uppercase;
+        color: #a29e84;
+        margin: 5px 0px;
+        padding: 8px;
+        border-radius: 0 16px 0 16px;
+        background: #151f20;
+        white-space: nowrap;
+    }
+
+    h4 {
+        font-size: 1.5em;
+        color: #a29e84;
+        margin: 0 5px 10px;
+        padding-left: 10px;
+        padding-bottom: 5px;
+        border-bottom: 1px solid #a29e84
+    }
+
+    p {
+        color: #98c8c8;
+        padding: 0 10px 0;
+    }
+
+    .button {
+        display: block;
+        box-sizing: border-box;
+        width: 100%;
+        padding: 5px 10px;
+        margin: 5px 0px;
+        color: #98c8c8;
+        text-decoration: none;
+        font-size: 1.2em;
+        border: 2px solid #98c8c8;
+        border-radius: 0 8px 0 8px;
+        background: linear-gradient(to bottom, #141c1c, #000, #141c1c);
+        transition: background 0.3s, color 0.3s;
+    }
+
+    .button:hover {
+        background: #98c8c8;
+        background: linear-gradient(to bottom, #c6e2e2, #98c8c8, #c6e2e2);
+        color: #0d1212;
+    }
+  </style>
+</head>
+<body>
+  <div class="panel">
+    <div class="double-line"></div>
+    <div class="title-container">
+      <h1>Sinclair Gurny</h1>
+      <div class="stripe1"></div>
+     </div>
+    <h2>Machine Learning Engineer</h2>
+    <h3>About Me<div class="stripe2"></div></h3>
+    <div id="s0b1" class="button">Summary</div>
+    <div id="s0b2" class="button">More About Me</div>
+    <h3>Resume<div class="stripe2"></div></h3>
+    <div id="s1b1" class="button">Education</div>
+    <div id="s1b2" class="button">Experience</div>
+    <div id="s1b3" class="button">Certifications / Awards</div>
+    <div id="s1b3" class="button">Skills</div>
+    <h3>Projects<div class="stripe2"></div></h3>
+    <div id="s2b1" class="button">Projects</div>
+  </div>
+
+  <div class="panel" id="textPanel">
+    <div class="double-line"></div>
+    <h4 id="text_title">XCOM Project Historical Record</h4>
+    <p id="text_content">
+      This is my text section
+    </p>
+  </div>
+  <!-- Hidden Sections which contain the text -->
+  <p id="about_me" hidden>
+    I'm Sinclair. I am currently working as a Machine Learning Engineer and Infrastructure Engineer at Stonewall Defense.
+    During my 5 year coterminal program at Rensselaer Polytechnic Institute I completed my M.S. in Computer Science in May 2020 and my B.S. in Computer Science and Cognitive Science in May 2019.
+    My thesis Learning Models from Avionics Data Streams focuses on using declarative machine learning to create a data-driven system which can estimate aircraft weight in real-time during take-off. It is the only system which uses no external sensors and does real time estimation before leaving the runway making it capable of preventing accidents such as overrunning the runway. My paper based on my thesis work was accepted into the Digital Avionics Systems Conference (DASC) 2020, titled Aircraft Weight Estimation During Take-off Using Declarative Machine Learning. My publications can be found
+  </p>
+  <p id="more" hidden>
+    Learning and improving is my true passion.
+    I use GNU Emacs because I love the customizability, and how it does everything all in one place. My favorite emacs packages are magit, frog-jump-buffer, org and org-roam. And no I do not use evil mode.
+    I currently use the Soul keyboard layout (very similar to Colemak) because it was a fun challenge to fight with my typing muscle memory and also improve the ergonomics of typing. A bunch of small improvements to your daily workflow add up in the long run.
+    I am also an avid Shogi player (Japanese chess) and captain a shogi team which won our division in 2021. Shogi is unique when compared to chess in that captured pieces can be placed back on the board.
+    Besides that I enjoy biking and I am learning to play classical guitar.
+  </p>
+  <p id="education" hidden>
+    Rensselaer Polytechnic Institute
+    B.S. Computer Science and Cognitive Science (GPA: 3.68)
+
+    2015-2019
+
+    Established in 1824 for the "application of science to the common purposes of life". Rensselaer Polytechnic Institute is the oldest technological university in the English-speaking world.
+
+    I learned a lot from my time at RPI. I have taken courses in everything from Circuits to Neuroscience. My focus was distributed systems, distributed programming languages, and high-performance computing within my computer science courses. Within cognitive science my focus was artificial intelligence and robotics, with my biggest interest being cognitive architectures.
+
+    Rensselaer Polytechnic Institute
+    M.S. Computer Science
+
+    2019-2020
+
+    My graduate research in the Worldwide Computing Lab was focused on distributed data-driven systems. My thesis Learning Models from Avionics Data Streams is the only data-driven program which is designed to prevent aviation accidents due to overweight or underweight take-offs. For example Tuninter 1153 (12.5% under weight, lack of fuel), Cessna 172R N420P (6% over max weight), and Aerosucre Flight 157 (1.3% over max weight, overran runway). In more technical detail, it is focused on the applications of declarative machine-learning to estimate fixed-wing aircraft weight during take-off.
+  </p>
+  <p id="experience" hidden>
+    Stonewall Defense
+    Machine Learning Engineer & Infrastructure Engineer
+
+    June 2020 - Present
+
+    Developed a data lake, batch processing and event based analytics systems, visualizations and machine learning predictions for several different projects. Managed kubernetes infrastructure on Amazon Web Services.
+
+    Initial project including developing a batch processing analytics system which loaded data into a data lake and produced visualizations retrievable via API. This includes AWS services S3, EC2, Athena, Glue and Lambda. Later projects includes event driven prediction models which are triggered via Kafka messages. In 2021 I gained Infrastructure Engineer responsibilities. This included managing the existing AWS Kubernetes system as well as setting up new infrastructure for the new projects. I managed kubernetes updates, database backups, database recovery, DNS, ingress, and built deployment scripts.
+
+    Rensselaer Polytechnic Institute (Computer Science Department)
+    Undergraduate Teaching Assistant (Data Structures)
+
+    January 2016 - May 2019
+
+    CSCI 1200 (Data Structures) covers fundamental data structures and their use in programming. This includes both class design and features of the C++ programming language. Much of our discussion will be built around the design and use of the C++ standard library (STL).
+
+    I helped students in learning the material, debugging code, and answering conceptual and syntax related questions. I developed my ability to communicate technical information to people with varying programming knowledge. I also improved my debugging ability and ability to read code quickly.
+
+    IPPSec, Inc.
+    Artificial Intelligence Developer
+
+    2018 - 2019
+
+    "A new generation of security driven by you." A startup venture with focus on completely revolutionizing the way people approach information personnel, and physical security.
+
+    The entire team was small, with each member being very specialized. I worked on research and development of an artificial intelligence prediction software. This software was meant to create heatmaps from spatio-temporal data and predict their change over time.
+
+    iD Tech Camps
+    Instructor
+
+    June 2017 - August 2017
+
+    iD Tech Camps is a summer computer camp for children ages 7 though 19. Camps are help in various U.S. college and university campuses.
+
+    I taught kids ages 10-17 about programming, computer hardware, and VEX robotics. The programming languages I taught my students included Python, C++, RobotC, C, and Java. The course on computer hardware included the use of pi-tops a Raspberry Pi based laptop and programming in Python. I created lesson plans for each of my week-long courses which consisted of several hours of education each day.
+  </p>
+  <p id="projects" hidden>
+    Compiler for PSIL (a Homemade Scheme Variant)
+
+    Interpretter for a simple LISP language written in C++ built from the ground up. The language is based on lambda calculus. I started this project as a way of refreshing my knowledge of modern C++ and learning more about compilers. As a fairly simple programming language PSIL is not the most useful or unique of languages but it was a fun project and I learned a lot.
+
+    WiFi Controlled Robot
+    hackaday.io/project/166142-wifi-tank-robot
+
+    I got a kit for this WiFi controlled tank robot with a pan and tilt camera and it came with a nearly unusable controller program. So I wrote a graphical controller in Python PyQt5 and OpenCV features for facial recognition and Aruco tag tracking.
+
+    Smore (Music Streaming App)
+
+    Open Source group project for Software Design & Documentation. Developed using Scrum framework using 1 week sprints. Smore is an iOS application developed in Swift that is capable of playing music from Apple Music, Spotify, and YouTube. Smore can browse for music, search for specific songs, and create a library of music from different sources.
+
+    Web Crawler
+
+    In my course Large Scale Programming and Testing the class was tasked with creating a search engine. There were groups for crawling, link analysis, indexing, document data storage, and user interface. We created our RESTful API for our web crawling server. Written in Python using BeautifulSoup for web crawling and Flask for the HTTP server.
+
+    Turn-based Strategy Game
+
+    This project came about because I wanted to refresh my knowledge of Lua. It is a simple rough but playable game made using Love2D.
+
+    Arduino Computer Mouse
+    hackaday.io/project/26914-arduino-joystick-mouse
+    A computer mouse that I designed, built, and programmed using an Arduino and various sensors. The mouse has multiple programmed modes and includes gesture controls via an accelerometer and haptic feedback via a vibration motor. This is my most polished and usable electronics project.
+
+    Wall Following and Obstacle Avoidance Robot
+    hackaday.io/project/28646-wall-following-and-obstacle-avoidance
+    A Raspberry Pi and Arduino based robot which uses sensors to detect obstacles and navigate around them. It uses ultrasonic and infrared distance sensors and uses Robot Operating System (ROS) to control the robot. This was my final project for Algorithmic Robotics.
+
+    Checkers Game and AI
+
+    One of my first programming projects and one of my favorites. I created a Checkers game with a working graphical interface and AI opponent in Racket (a variant of Scheme). This project was my first dive into functional programming and artificial intelligence programming. What I learned in this project helped me greatly during my time at RPI.
+  </p>
+  <p id="certs_awards" hidden>
+    Certifications
+    Wilderness First Aid: (Stonehearth Open Learning Opportunities) [Oct 2019-Oct 2021]
+    CPR: (Stonehearth Open Learning Opportunities) [Oct 2019-Oct 2021]
+    Awards
+
+    Jack Hollingsworth Prize (May 2019): This prize is awarded to one computer science student a year who made a contribution to the education program at Rensselaer.
+    Founders Award of Excellence (Oct 2019): This prize is given to less than 1% of students who emody qualities of creativity, discovery, leadership, and the value of pride and responsibility.
+  </p>
+  <p id="skills" hidden>
+    Programming Languages
+    Python
+    Bash
+    C/C++
+    Java/Scala
+    Julia
+    Lisp (Emacs Lisp/Scheme/Racket)
+    Skills
+    Deep Learning (PyTorch)
+    Visualization (plotly, matplotlib, seaborn), Dashboard (streamlit)
+    Machine Learning and Data Science (numpy, scipy, pandas, xgboost, lightgbm) Kaggle profile
+    API development (FastAPI, flask)
+    AWS (EC2, Lambda, S3, EKS, Athena, Glue)
+    Kubernetes
+    Docker, Docker Compose
+  </p>
+  <script>
+    const title = document.getElementById('text_title');
+    const text = document.getElementById('text_content');
+
+    let buttons = ["s0b1", "s0b2",
+                   "s1b1", "s1b2", "s1b3",
+                   "s2b1"];
+    let content = ["about_me", "more",
+                   "education", "experience", "certs_awards", "skills",
+                   "projects"];
+
+    for (let i = 0; i < buttons.length; i++) {
+        let b = document.getElementById(buttons[i]);
+        b.addEventListener('click', function() {
+            title.textContent = b.textContent;
+            text.textContent = document.getElementById(content[i]).textContent;
+        });
+    }
+  </script>
+</body>
+</html>
